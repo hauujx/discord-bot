@@ -1,4 +1,9 @@
 {
     "prefix": "!",
     "token": "NTUzNjU3MzM2NzAzNzQ2MDk4.D2Rxlg.GW2u5eohxgGy1aG15a67WC-vHwc"
+     "name": "music-bot",
+  "version": "1.0.0",
+  "repository": "https://github.com/TannerGabriel/discord-music-bot.git",
+  "description": "A simple discord music bot",
+  "main": "index.js"
 }
